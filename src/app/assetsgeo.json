@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "egypt.cairo",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.225891113281246,
+          30.059585699708215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "egypt.port-said",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.29705810546875,
+          31.262117800776537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "turkey.samsun",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.316680908203125,
+          41.288126204331704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "turkey.bolu",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.61041259765625,
+          40.73997376331186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ireland.dublin",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.273193359375,
+          53.35055131839989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "england.st-davids",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44921875,
+          51.88327296443745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "north.sea",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8452148437499996,
+          56.541315384450826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spain.proto",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.9755859375,
+          40.91351257612758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iiha-da-madeira.funchal",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.918945312499996,
+          32.657875736955305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "moracco.desert",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.436523437499998,
+          26.352497858154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "libya.desert",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2265625,
+          29.99300228455108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "libya.waw-al-kabir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5673828125,
+          24.806681353851964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gorgia.savannah.ocean",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.453125,
+          31.353636941500987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usa.nd.cherry-lake",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6572265625,
+          47.635783590864854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usa.california.san-jose",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.662109375,
+          36.8092847020594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usa.ny",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0643310546875,
+          40.701463603604594
+        ]
+      }
+    }
+  ]
+}
